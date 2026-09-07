@@ -2,7 +2,7 @@ class Solution:
     def distinctSubseqII(self, s: str) -> int:
         dp=1
         last={}
-        MOD=int(10e9)
+        MOD=10**9+7
         for ch in s:
             new_dp=dp*2
             if ch in last:
