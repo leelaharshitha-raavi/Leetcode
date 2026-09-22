@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0038-count-and-say](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0038-count-and-say) |
 | [0409-longest-palindrome](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
