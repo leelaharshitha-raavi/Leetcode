@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0409-longest-palindrome) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
