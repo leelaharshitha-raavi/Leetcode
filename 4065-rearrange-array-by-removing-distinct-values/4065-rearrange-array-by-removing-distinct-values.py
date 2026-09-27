@@ -7,8 +7,7 @@ class Solution:
             for num in sorted(freq):
                 ans.append(num)
                 freq[num] -= 1
-
-            # Remove numbers whose frequency became 0
-            freq = {num: cnt for num, cnt in freq.items() if cnt > 0}
+                if freq[num]==0:
+                    del freq[num]
 
         return ans
