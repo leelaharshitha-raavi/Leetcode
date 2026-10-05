@@ -1,18 +1,14 @@
 class Solution:
     def scoreOfParentheses(self, s: str) -> int:
-        stack = [0]
-
+        st=[0]
         for ch in s:
-            if ch == '(':
-                stack.append(0)
+            if ch=="(":
+                st.append(0)
             else:
-                curr = stack.pop()
-
-                if curr == 0:
-                    curr = 1
+                cur=st.pop()
+                if cur==0:
+                    cur=1
                 else:
-                    curr = 2 * curr
-
-                stack[-1] += curr
-
-        return stack[0]
+                    cur=2*cur
+                st[-1]+=cur
+        return st[0]
