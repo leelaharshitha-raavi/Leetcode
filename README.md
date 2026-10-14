@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0002-add-two-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
