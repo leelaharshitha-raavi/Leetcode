@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0258-add-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
