@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/0258-add-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
