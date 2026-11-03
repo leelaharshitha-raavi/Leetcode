@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/leelaharshitha-raavi/Leetcode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Recursion
